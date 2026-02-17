@@ -5,7 +5,7 @@ avatar: /static/avatar.jpg
 occupation: Cybersecurity & Digital Forensics
 company: 
 resume: /static/Suriabaanu_Resume.pdf
-email: Suriabaanu@gmail.com
+email: suriabaanu@gmail.com
 twitter: https://twitter.com/Suriabaanu
 linkedin: https://www.linkedin.com/in/suriabaanu/
 github: https://github.com/Suriabaanu
@@ -25,10 +25,10 @@ Currently pursuing studies in Digital Forensics at Atlantic Technological Univer
 
 Highlights:
 
-Azure-900 certified with strong cloud security fundamentals
+- AZ-900 certified with strong cloud security fundamentals
 
-Hands-on academic experience in digital forensic investigation and evidence handling
+- Hands-on academic experience in digital forensic investigation and evidence handling
 
-Preparing for CompTIA Security+ to deepen cybersecurity expertise
+- Preparing for CompTIA Security+ to deepen cybersecurity expertise
 
-Passionate about cyber defense, ethical investigation, and digital trust
+- Passionate about cyber defense, ethical investigation, and digital trust
