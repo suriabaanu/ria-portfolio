@@ -2,12 +2,12 @@
 name: SuriaBaanu
 shortname: SuriaBaanu
 avatar: /static/avatar.jpg
-occupation: Cybersecurity & Digital Forensics Enthusiast
-company: SITA
+occupation: Cybersecurity & Digital Forensics
+company: 
 resume: /static/Suriabaanu_Resume.pdf
 email: Suriabaanu@gmail.com
 twitter: https://twitter.com/Suriabaanu
-linkedin: https://www.linkedin.com/in/Suriabaanu
+linkedin: https://www.linkedin.com/in/suriabaanu/
 github: https://github.com/Suriabaanu
 ---
 
