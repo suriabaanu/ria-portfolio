@@ -1,8 +1,8 @@
 ---
-name: Vijaykumar Rajendran
-shortname: VijayRajendran
+name: SuriaBaanu
+shortname: SuriaBaanu
 avatar: /static/avatar.jpg
-occupation: Sr. DevOps Engineer
+occupation: Cybersecurity & Digital Forensics Enthusiast
 company: SITA
 resume: /static/Suriabaanu_Resume.pdf
 email: Suriabaanu@gmail.com
