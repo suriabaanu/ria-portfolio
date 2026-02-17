@@ -11,18 +11,24 @@ linkedin: https://www.linkedin.com/in/Suriabaanu
 github: https://github.com/Suriabaanu
 ---
 
-🌟A dynamic DevOps Engineer committed to driving innovation and excellence in technology.
+🌟 A passionate Digital Forensics professional dedicated to uncovering truth through technology and advancing cybersecurity resilience.
 
-Currently, I am working as a **Sr. DevOps Engineer** at **SITA**.
+Currently pursuing studies in Digital Forensics at Atlantic Technological University (ATU), with a strong focus on cyber investigation, incident response, and secure cloud technologies.
 
-👨‍💻 Previously, I served as a DevOps Engineer at [Bidgely Technologies](https://www.bidgely.com/)  where I helped in security enhancements and CI/CD improvements that accelerated application deployment and system resilience. I was instrumental in migrating Node.js applications from Heroku to AWS, optimizing performance and scalability.
+☁️ Microsoft Azure Fundamentals (AZ-900) Certified, demonstrating foundational knowledge of cloud services, security, compliance, and governance in modern enterprise environments.
 
-📚 Before that, I was a Linux Administrator and Junior DevOps Engineer at [Optit Technologies](https://optit.in/), focusing on cost-effective solutions through the adoption of open-source technologies and significant data migrations like  P2V, V2V, V2P & V2C. Also,I contributed in providing cost-optimized solutions using open-source solution and Migrating P2V, V2V, V2P & V2C.
+🔐 Actively preparing for the CompTIA Security+ certification, strengthening expertise in network security, threat management, cryptography, and risk mitigation to build a solid cybersecurity career.
 
-🖋️ Outside of work, I am an avid contributor to the tech community, having published numerous articles that advocate for innovative DevOps practices. My efforts have not only educated but also inspired many within the industry. I hold a Master of Science in DevOps from Atlantic Technological University, reflecting my deep commitment to continuous learning and professional development.
+🧪 Skilled in digital evidence analysis, forensic methodologies, and investigative tools, with a keen interest in protecting digital environments and supporting cybercrime investigations.
 
-**Highlights:**
-Successfully migrated 25 TB of data to AWS S3 Glacier, significantly reducing costs.
-Revamped CI/CD strategies and automated key tasks to boost system efficiency.
-Led the transition of applications to Kubernetes-managed containerized platforms.
-Deployed comprehensive monitoring with Prometheus and Grafana to ensure high system availability.
+📚 Driven by continuous learning and curiosity, committed to staying ahead of emerging threats and evolving technologies in the cybersecurity and digital forensics landscape.
+
+Highlights:
+
+Azure-900 certified with strong cloud security fundamentals
+
+Hands-on academic experience in digital forensic investigation and evidence handling
+
+Preparing for CompTIA Security+ to deepen cybersecurity expertise
+
+Passionate about cyber defense, ethical investigation, and digital trust
