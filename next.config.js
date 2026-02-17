@@ -64,6 +64,15 @@ module.exports = withBundleAnalyzer({
   images: {
     domains: ['firebasestorage.googleapis.com'],
   },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/blog',
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {
