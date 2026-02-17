@@ -4,11 +4,11 @@ shortname: VijayRajendran
 avatar: /static/avatar.jpg
 occupation: Sr. DevOps Engineer
 company: SITA
-resume: /static/Vijay_Resume.pdf
-email: vijayvj6796@gmail.com
-twitter: https://twitter.com/vijayrajendran_
-linkedin: https://www.linkedin.com/in/vijaykumar96
-github: https://github.com/vijayvj6796
+resume: /static/Suriabaanu_Resume.pdf
+email: Suriabaanu@gmail.com
+twitter: https://twitter.com/Suriabaanu
+linkedin: https://www.linkedin.com/in/Suriabaanu
+github: https://github.com/Suriabaanu
 ---
 
 🌟A dynamic DevOps Engineer committed to driving innovation and excellence in technology.

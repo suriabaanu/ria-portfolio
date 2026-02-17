@@ -16,17 +16,17 @@ export interface Contact {
 }
 
 export const contact: Contact = {
-  twitter: '@vijayrajendran_',
-  site: 'vijayrajendran.com',
-  calendly: 'https://calendly.com/vijaykrajendran69',
+  twitter: '@Suriabaanurajendran_',
+  site: 'suriabaanu.com',
+  calendly: 'https://calendly.com/Suriabaanu',
   links: {
-    github: 'https://github.com/vijayvj6796',
-    linkedin: 'https://www.linkedin.com/in/vijaykumar96',
+    github: 'https://github.com/Suriabaanu',
+    linkedin: 'https://www.linkedin.com/in/Suriabaanu',
     googlescholar:
       'https://scholar.google.com/citations?user=8wIfeAsAAAAJ&hl=en',
-    twitter: 'https://twitter.com/vijayrajendran_',
+    twitter: 'https://twitter.com/Suriabaanu_',
     youtube: 'https://www.youtube.com/c/techtravellertales',
-    email: 'mailto:vijaykrajendran@gmail.com',
-    buymeacoffee: 'https://www.buymeacoffee.com/vijayrajendran_'
+    email: 'mailto:Suriabaanu@gmail.com',
+    buymeacoffee: 'https://www.buymeacoffee.com/Suriabaanu'
   },
 };
