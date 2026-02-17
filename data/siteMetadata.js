@@ -1,18 +1,18 @@
 const siteMetadata = {
-  title: 'VijayKumar Rajendran',
-  author: 'VijayKumar Rajendran',
-  headerTitle: 'Vijaykumar Rajendran',
+  title: 'SuriaBaanu',
+  author: 'SuriaBaanu',
+  headerTitle: 'SuriaBaanu',
   description:
     'A software engineer who aims to evolve, innovate, and inspire through technology.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://suriabaanu.com',
-  siteRepo: 'https://github.com/Suriabaanu/portfolio',
+  siteRepo: 'https://github.com/suriabaanu/ria-portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/avatar.jpg',
   socialBanner: '/static/banner.png',
   email: 'mailto:suriabaanu@gmail.com',
-  github: 'https://github.com/Suriabaanu',
+  github: 'https://github.com/suriabaanu',
   twitter: 'https://twitter.com/Suriabaanu_',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
